@@ -1,0 +1,6 @@
+*.xlsx
+*.xls
+*.csv
+*.parquet
+__pycache__/
+cosi_categories_out/
