@@ -64,3 +64,7 @@ If you use this code in your project, please cite:
   journal={..},
   year={..}
 }
+
+## License
+
+The code is released under the MIT License (see LICENSE). The clinical data are not included and cannot be shared.
